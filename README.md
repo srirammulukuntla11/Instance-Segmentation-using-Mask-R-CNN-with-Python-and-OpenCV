@@ -67,5 +67,6 @@ pip install opencv-python numpy
 * Adjust the detection confidence threshold in `module.py` (default `0.3`) for stricter or more lenient detection.
 
 📜 License
+
 This project is licensed under the MIT License.
 
