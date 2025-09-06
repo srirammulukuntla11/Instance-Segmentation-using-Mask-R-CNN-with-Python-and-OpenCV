@@ -44,12 +44,12 @@ pip install opencv-python numpy
    ```
 
 2. Download the pre-trained Mask R-CNN model files:
-   * [`frozen_inference_graph_coco.pb`](http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_v2_coco_2018_01_28.tar.gz)
-   * `mask_rcnn_inception_v2_coco_2018_01_28.pbtxt`
+  https://drive.google.com/file/d/1D1h-RWV1nsY9Ht9ZPYq5D_OUED2n5V-u/view?usp=sharing
+  https://drive.google.com/file/d/1spPU4mVybYSQ6UkNWR5QILhLvlbVdKCp/view?usp=drive_link
 
-3. Place the files in the project directory.
+4. Place the files in the project directory.
 
-4. Run the script:
+5. Run the script:
 
    ```bash
    python module.py
